@@ -59,7 +59,7 @@ nav {
 }
 
 .navbar a:hover{
-    color: var(--main-color);
+    color: rgb(177, 177, 177);
 }
 
 #menu-icon{
