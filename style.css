@@ -447,7 +447,7 @@ button.prev:hover, button.next:hover {
 
 }
 
-@media (max-width: 364px) {
+@media (max-width: 495px) {
     .links {
         display: flex;
         flex-direction: column;
